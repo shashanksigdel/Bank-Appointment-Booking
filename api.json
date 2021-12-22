@@ -1,0 +1,52 @@
+{
+  "appointments": [
+    {
+      "name": "Test TestSurname",
+      "gender": "female",
+      "email": "test@gmail.com",
+      "phone": "1234567890",
+      "address": "Lalitpur",
+      "branch": "Godawari",
+      "date": "2021-12-29",
+      "time": "16:30 PM - 17:00 PM",
+      "description": "Request for loan of Rs 1,00,00,000.00 within 20 days",
+      "id": 1
+    },
+    {
+      "name": "Dipen Rai",
+      "gender": "male",
+      "email": "dipen@gmail.com",
+      "phone": "1234567890",
+      "address": "Lalitpur",
+      "branch": "Gwarko",
+      "date": "2021-12-31",
+      "time": "10:30 AM - 11:00 AM",
+      "description": "Request for loan of Rs 1,00,00,0 within 20 days",
+      "id": 2
+    },
+    {
+      "name": "Alkesh Khadka",
+      "gender": "male",
+      "email": "alkesh@gmail.com",
+      "phone": "1234567890",
+      "address": "Lalitpur",
+      "branch": "Thaiba",
+      "date": "2021-12-31",
+      "time": "15:00 PM - 15:30 PM",
+      "description": "Request for loan of Rs500000000000000 within 20 days",
+      "id": 3
+    },
+    {
+      "name": "Shashank Sigdel",
+      "gender": "male",
+      "email": "sashanksigdel@gmail.com",
+      "phone": "9860132507",
+      "address": "Lalitpur",
+      "branch": "Godawari",
+      "date": "2021-12-29",
+      "time": "13:00 PM - 13:30 PM",
+      "description": "Request for loan of Rs 1,00,00,000.00 within 20 days",
+      "id": 4
+    }
+  ]
+}
