@@ -11,5 +11,3 @@
 Concurrently runs json server and npm server in the development mode.\
 Open localhost to view it in your browser.
 Open /appointments to view Fake Rest API..
-
-See the section about [opening project](/getHelp) for more information after running the project.
