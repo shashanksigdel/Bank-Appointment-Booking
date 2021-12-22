@@ -1,13 +1,15 @@
 # Getting Started with Bank appointment Booking.
 
-## Available Scripts
+## Install all Dependencies
 
-In the project directory, you can run:
+### `npm install`
+
+## Run the Project
 
 ### `npm run dev`
 
 Concurrently runs json server and npm server in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-Open [http://localhost:3002/appointments](http://localhost:3002/appointments) to view Fake Rest API..
+Open localhost to view it in your browser.
+Open /appointments to view Fake Rest API..
 
-See the section about [opening project](http://localhost:3000/getHelp) for more information after running the project.
+See the section about [opening project](/getHelp) for more information after running the project.
