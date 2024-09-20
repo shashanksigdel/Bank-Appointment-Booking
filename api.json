@@ -1,6 +1,21 @@
 {
   "appointments": [
     {
+<<<<<<< HEAD
+=======
+      "name": "Test TestSurname",
+      "gender": "female",
+      "email": "test@gmail.com",
+      "phone": "1234567890",
+      "address": "Lalitpur",
+      "branch": "Godawari",
+      "date": "2021-12-29",
+      "time": "16:30 PM - 17:00 PM",
+      "description": "Request for loan of Rs 1,00,00,000.00 within 20 days",
+      "id": 1
+    },
+    {
+>>>>>>> origin/main
       "name": "Dipen Rai",
       "gender": "male",
       "email": "dipen@gmail.com",
@@ -32,9 +47,17 @@
       "address": "Lalitpur",
       "branch": "Godawari",
       "date": "2021-12-29",
+<<<<<<< HEAD
       "time": "15:00 PM - 15:30 PM",
+=======
+      "time": "13:00 PM - 13:30 PM",
+>>>>>>> origin/main
       "description": "Request for loan of Rs 1,00,00,000.00 within 20 days",
       "id": 4
     }
   ]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/main
