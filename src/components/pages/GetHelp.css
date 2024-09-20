@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+.documentationContainer {
+  padding: 40px;
+}
+.gettingStarted {
+  font-weight: bold;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+.projectDesc {
+  margin-bottom: 10px;
+}
+
+.documentationContainer > h2 {
+  padding: 10px;
+}
+
+.documentationContainer > p {
+  margin-bottom: 10px;
+  margin-right: 40px;
+}
+
+pre {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+}
+.code {
+  background-color: rgb(68, 68, 68);
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+}

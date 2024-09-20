@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+.rescheduleAppointmentWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+}
+.rescheduleAppointmentContainer {
+  margin-top: 20px;
+  width: 35%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.rescheduleAppointmentForm {
+  margin-top: 10px;
+  padding: 20px;
+  background: #ffffff;
+  border: 1px solid #d3d3d3;
+  box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.08);
+  border-radius: 10px;
+}
+
+form {
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 15px;
+  display: flex;
+  flex-direction: column;
+  width: 37vw;
+}
+
+form > label {
+  margin-bottom: 1px;
+}
+form > input,
+select {
+  margin-bottom: 5px;
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+form > textarea {
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.rescheduleButton {
+  width: 200px;
+  height: 50px;
+  margin-top: 15px;
+  border: none;
+  border-radius: 2rem;
+  cursor: pointer;
+  color: white;
+  background-color: #1e4fce;
+  font-weight: 600;
+  letter-spacing: 1px;
+}

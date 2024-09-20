@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+form {
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 15px;
+  display: flex;
+  flex-direction: column;
+  width: 37vw;
+}
+
+form > label {
+  margin-bottom: 1px;
+}
+form > input,
+select {
+  margin-bottom: 5px;
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+.genderLabel {
+  margin-top: -8px;
+  margin-bottom: 12px;
+}
+.genderDetails {
+  display: inline-block;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.genderDetails > input,
+label {
+  margin-right: 10px;
+  margin-bottom: 8px;
+}
+
+.termsAndConditions {
+  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.termsAndConditions > input {
+  margin-right: 10px;
+}
